@@ -1,0 +1,36 @@
+name: "Leantime"
+description: "Lean project management system for innovators and creators."
+version: "1.0.0"
+slug: "leantime"
+url: "https://github.com/Leantime/leantime"
+init: false
+arch:
+  - amd64
+  - aarch64
+startup: "services"
+boot: "auto"
+ports:
+  8080/tcp: 8080
+ports_description:
+  8080/tcp: "Leantime Web Interface"
+webui: "http://[HOST]:[PORT:8080]"
+map:
+  - share:rw
+options:
+  db_password: "ChangeThisSecretPassword123!"
+  session_password: "GenerateA32CharRandomString123!"
+  app_url: ""
+  db_host: "localhost"
+  db_port: 3306
+  db_user: "leantime"
+  db_name: "leantime"
+  site_name: "Leantime"
+schema:
+  db_password: "password"
+  session_password: "password"
+  app_url: "str?"
+  db_host: "str?"
+  db_port: "port?"
+  db_user: "str?"
+  db_name: "str?"
+  site_name: "str?"
