@@ -3,9 +3,17 @@
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Add--on-blue.svg)](https://www.home-assistant.io/)
 [![Leantime](https://img.shields.io/badge/Leantime-Project%20Management-brightgreen.svg)](https://leantime.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status: Experimental](https://img.shields.io/badge/Status-Experimental-orange.svg)](#disclaimer)
 [![Architectures](https://img.shields.io/badge/Arch-amd64%20%7C%20aarch64-informational.svg)](#architecture)
 
-This repository provides an official-style **Home Assistant Add-on** for [Leantime](https://leantime.io/) — an open-source, lean project management system tailored for innovators, startups, and creative teams.
+This repository provides an experimental **Home Assistant Add-on** for [Leantime](https://leantime.io/) — an open-source, lean project management system tailored for innovators, startups, and creative teams.
+
+> [!WARNING]
+> ### Disclaimer: Experimental Software — No Support or Guarantee
+> This add-on is an **experimental community project** provided strictly on an **"AS IS"** basis, **without any support, warranty, or guarantee** of any kind, whether express or implied.
+> - **Use at your own risk:** Neither stability, data safety, nor long-term maintenance is guaranteed.
+> - **Backup regularly:** Ensure you take frequent, independent Home Assistant backups before installing or upgrading.
+> - **Non-Affiliation:** This project is independent and is neither affiliated with nor officially endorsed by Leantime or Nabu Casa / Home Assistant.
 
 ---
 

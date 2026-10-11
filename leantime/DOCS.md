@@ -2,6 +2,8 @@
 
 [Leantime](https://leantime.io/) is an open-source, lean project management system built for innovators, creators, and small teams. It combines strategy planning, task management, milestones, and idea boards into a single streamlined workspace.
 
+> **Disclaimer:** This add-on is an **experimental community project** provided on an **"AS IS"** basis, **without any support, warranty, or guarantee**. Use at your own risk and always make regular Home Assistant backups.
+
 ---
 
 ## Getting Started
